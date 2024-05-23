@@ -1,7 +1,7 @@
 {
   "version": 59,
   "meta": {
-    "name": "NCAA 2023"
+    "name": "College BBGM"
   },
   "teams": [
     {
@@ -58,7 +58,7 @@
             "#8b634b"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -177,7 +177,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -296,7 +296,7 @@
             "#ffffff"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -415,7 +415,7 @@
             "#e4002b"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -534,7 +534,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -653,7 +653,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -772,7 +772,7 @@
             "#6caddf"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -891,7 +891,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -1010,7 +1010,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -1129,7 +1129,7 @@
             "#a7a8aa"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -1248,7 +1248,7 @@
             "#0099cc"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -1367,7 +1367,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -1486,7 +1486,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -1605,7 +1605,7 @@
             "#6e6259"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -1724,7 +1724,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -1843,7 +1843,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -1962,7 +1962,7 @@
             "#003043"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -2081,7 +2081,7 @@
             "#fdb913"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -2200,7 +2200,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -2319,7 +2319,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -2438,7 +2438,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -2557,7 +2557,7 @@
             "#000e54"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -2676,7 +2676,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -2795,7 +2795,7 @@
             "#ffffff"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -2914,7 +2914,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -3033,7 +3033,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -3152,7 +3152,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -3271,7 +3271,7 @@
             "#ffffff"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -3390,7 +3390,7 @@
             "#ffc82d"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -3509,7 +3509,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -3628,7 +3628,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -3747,7 +3747,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -3866,7 +3866,7 @@
             "#ffffff"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -3985,7 +3985,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -4104,7 +4104,7 @@
             "#ffffff"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -4223,7 +4223,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -4342,7 +4342,7 @@
             "#ffffff"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -4461,7 +4461,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -4580,7 +4580,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -4699,7 +4699,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -4818,7 +4818,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -4937,7 +4937,7 @@
             "#000000"
           ],
           "jersey": "jersey",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -5056,7 +5056,7 @@
             "#ffffff"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -5175,7 +5175,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -5294,7 +5294,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -5413,7 +5413,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -5532,7 +5532,7 @@
             "#ffffff"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -5651,7 +5651,7 @@
             "#ffffff"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -5770,7 +5770,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -5889,7 +5889,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -6008,7 +6008,7 @@
             "#c1c6c8"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -6127,7 +6127,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -6246,7 +6246,7 @@
             "#63666a"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -6365,7 +6365,7 @@
             "#d86018"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -6484,7 +6484,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -6603,7 +6603,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -6722,7 +6722,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -6841,7 +6841,7 @@
             "#207bc1"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -6960,7 +6960,7 @@
             "#919194"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -7079,7 +7079,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -7198,7 +7198,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -7317,7 +7317,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -7436,7 +7436,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -7555,7 +7555,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -7674,7 +7674,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -7793,7 +7793,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -7912,7 +7912,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -8031,7 +8031,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -8150,7 +8150,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -8269,7 +8269,7 @@
             "#ffffff"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -8388,7 +8388,7 @@
             "#9d968d"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -8507,7 +8507,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -8626,7 +8626,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -8745,7 +8745,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -8864,7 +8864,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -8983,7 +8983,7 @@
             "#ffffff"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -9102,7 +9102,7 @@
             "#fdb515"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -9221,7 +9221,7 @@
             "#a2a4a3"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -9340,7 +9340,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -9459,7 +9459,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -9578,7 +9578,7 @@
             "#2e2d29"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -9697,7 +9697,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -9816,7 +9816,7 @@
             "#ffffff"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -9935,7 +9935,7 @@
             "#000000"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -10054,7 +10054,7 @@
             "#917b4c"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -10173,7 +10173,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -10292,7 +10292,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -10411,7 +10411,7 @@
             "#f80228"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -10530,7 +10530,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -10649,7 +10649,7 @@
             "#ffffff"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -10768,7 +10768,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -10887,7 +10887,7 @@
             "#ffffff"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -11006,7 +11006,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -11125,7 +11125,7 @@
             "#b1b3b3"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -11244,7 +11244,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -11363,7 +11363,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -11482,7 +11482,7 @@
             "#bdb6b0"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -11601,7 +11601,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -11720,7 +11720,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -11839,7 +11839,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -11958,7 +11958,7 @@
             "#ad8f40"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -12077,7 +12077,7 @@
             "#000000"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -12196,7 +12196,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -12315,7 +12315,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -12434,7 +12434,7 @@
             "#b8b9b7"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -12553,7 +12553,7 @@
             "#fd992e"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -12672,7 +12672,7 @@
             "#ffffff"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -12791,7 +12791,7 @@
             "#ffffff"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -12910,7 +12910,7 @@
             "#8a8d8f"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -13029,7 +13029,7 @@
             "#418fde"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -13148,7 +13148,7 @@
             "#c5b783"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -13267,7 +13267,7 @@
             "#ffffff"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -13386,7 +13386,7 @@
             "#27251f"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -13505,7 +13505,7 @@
             "#8a8d8f"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -13624,7 +13624,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -13743,7 +13743,7 @@
             "#a2aaad"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -13862,7 +13862,7 @@
             "#693f23"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -13981,7 +13981,7 @@
             "#69e3b7"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -14100,7 +14100,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -14219,7 +14219,7 @@
             "#92c1e9"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -14338,7 +14338,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -14457,7 +14457,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -14576,7 +14576,7 @@
             "#000000"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -14695,7 +14695,7 @@
             "#b1b3b3"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -14814,7 +14814,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -14933,7 +14933,7 @@
             "#a2a3a4"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -15052,7 +15052,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -15171,7 +15171,7 @@
             "#cda077"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -15290,7 +15290,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -15409,7 +15409,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -15528,7 +15528,7 @@
             "#ffffff"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -15647,7 +15647,7 @@
             "#000000"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -15766,7 +15766,7 @@
             "#ffffff"
           ],
           "jersey": "jersey4",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -15885,7 +15885,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -16004,7 +16004,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -16123,7 +16123,7 @@
             "#000000"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -16242,7 +16242,7 @@
             "#ffda00"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -16361,7 +16361,7 @@
             "#aaa8aa"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -16480,7 +16480,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -16599,7 +16599,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -16718,7 +16718,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -16837,7 +16837,7 @@
             "#007934"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -16956,7 +16956,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -17075,7 +17075,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -17194,7 +17194,7 @@
             "#63666a"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -17313,7 +17313,7 @@
             "#939597"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -17432,7 +17432,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -17551,7 +17551,7 @@
             "#2c2a29"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -17670,7 +17670,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -17789,7 +17789,7 @@
             "#808285"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -17908,7 +17908,7 @@
             "#ffffff"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -18027,7 +18027,7 @@
             "#e4002b"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -18146,7 +18146,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -18265,7 +18265,7 @@
             "#89572e"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -18384,7 +18384,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -18503,7 +18503,7 @@
             "#ffffff"
           ],
           "jersey": "jersey2",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -18622,7 +18622,7 @@
             "#ffffff"
           ],
           "jersey": "jersey5",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -18741,7 +18741,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -18807,7 +18807,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 157,
           "gp": 0,
           "min": 0,
@@ -18918,7 +18918,7 @@
             "#0000ff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -18984,7 +18984,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 158,
           "gp": 0,
           "min": 0,
@@ -19095,7 +19095,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -19161,7 +19161,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 159,
           "gp": 0,
           "min": 0,
@@ -19272,7 +19272,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -19338,7 +19338,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 160,
           "gp": 0,
           "min": 0,
@@ -19449,7 +19449,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -19515,7 +19515,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 161,
           "gp": 0,
           "min": 0,
@@ -19626,7 +19626,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -19692,7 +19692,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 162,
           "gp": 0,
           "min": 0,
@@ -19803,7 +19803,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -19869,7 +19869,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 163,
           "gp": 0,
           "min": 0,
@@ -19980,7 +19980,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -20046,7 +20046,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 164,
           "gp": 0,
           "min": 0,
@@ -20157,7 +20157,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -20223,7 +20223,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 165,
           "gp": 0,
           "min": 0,
@@ -20334,7 +20334,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -20400,7 +20400,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 166,
           "gp": 0,
           "min": 0,
@@ -20511,7 +20511,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -20577,7 +20577,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 167,
           "gp": 0,
           "min": 0,
@@ -20688,7 +20688,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -20754,7 +20754,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 168,
           "gp": 0,
           "min": 0,
@@ -20865,7 +20865,7 @@
             "#bf0d3e"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -20931,7 +20931,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 169,
           "gp": 0,
           "min": 0,
@@ -21042,7 +21042,7 @@
             "#ffffff"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -21108,7 +21108,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 170,
           "gp": 0,
           "min": 0,
@@ -21219,7 +21219,7 @@
             "#000000"
           ],
           "jersey": "jersey3",
-          "season": 2024,
+          "season": 2018,
           "gpHome": 0,
           "att": 0,
           "cash": 10000,
@@ -21285,7 +21285,7 @@
       "stats": [
         {
           "playoffs": false,
-          "season": 2024,
+          "season": 2018,
           "tid": 171,
           "gp": 0,
           "min": 0,
@@ -21454,7 +21454,7 @@
         ]
       },
       {
-        "start": 2024,
+        "start": 2018,
         "value": [
           {
             "cid": 0,
@@ -21634,7 +21634,7 @@
         ]
       },
       {
-        "start": 2024,
+        "start": 2018,
         "value": [
           {
             "did": 0,
@@ -21782,7 +21782,7 @@
         "value": null
       },
       {
-        "start": 2024,
+        "start": 2018,
         "value": null
       }
     ],
@@ -21815,7 +21815,7 @@
         ]
       },
       {
-        "start": 2024,
+        "start": 2018,
         "value": [
           1,
           1,
@@ -21882,7 +21882,7 @@
       "originalTid": 0,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 0
     },
     {
@@ -21890,7 +21890,7 @@
       "originalTid": 1,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1
     },
     {
@@ -21898,7 +21898,7 @@
       "originalTid": 2,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 2
     },
     {
@@ -21906,7 +21906,7 @@
       "originalTid": 3,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 3
     },
     {
@@ -21914,7 +21914,7 @@
       "originalTid": 4,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 4
     },
     {
@@ -21922,7 +21922,7 @@
       "originalTid": 5,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 5
     },
     {
@@ -21930,7 +21930,7 @@
       "originalTid": 6,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 6
     },
     {
@@ -21938,7 +21938,7 @@
       "originalTid": 7,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 7
     },
     {
@@ -21946,7 +21946,7 @@
       "originalTid": 8,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 8
     },
     {
@@ -21954,7 +21954,7 @@
       "originalTid": 9,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 9
     },
     {
@@ -21962,7 +21962,7 @@
       "originalTid": 10,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 10
     },
     {
@@ -21970,7 +21970,7 @@
       "originalTid": 11,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 11
     },
     {
@@ -21978,7 +21978,7 @@
       "originalTid": 12,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 12
     },
     {
@@ -21986,7 +21986,7 @@
       "originalTid": 13,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 13
     },
     {
@@ -21994,7 +21994,7 @@
       "originalTid": 14,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 14
     },
     {
@@ -22002,7 +22002,7 @@
       "originalTid": 15,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 15
     },
     {
@@ -22010,7 +22010,7 @@
       "originalTid": 16,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 16
     },
     {
@@ -22018,7 +22018,7 @@
       "originalTid": 17,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 17
     },
     {
@@ -22026,7 +22026,7 @@
       "originalTid": 18,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 18
     },
     {
@@ -22034,7 +22034,7 @@
       "originalTid": 19,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 19
     },
     {
@@ -22042,7 +22042,7 @@
       "originalTid": 20,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 20
     },
     {
@@ -22050,7 +22050,7 @@
       "originalTid": 21,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 21
     },
     {
@@ -22058,7 +22058,7 @@
       "originalTid": 22,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 22
     },
     {
@@ -22066,7 +22066,7 @@
       "originalTid": 23,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 23
     },
     {
@@ -22074,7 +22074,7 @@
       "originalTid": 24,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 24
     },
     {
@@ -22082,7 +22082,7 @@
       "originalTid": 25,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 25
     },
     {
@@ -22090,7 +22090,7 @@
       "originalTid": 26,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 26
     },
     {
@@ -22098,7 +22098,7 @@
       "originalTid": 27,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 27
     },
     {
@@ -22106,7 +22106,7 @@
       "originalTid": 28,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 28
     },
     {
@@ -22114,7 +22114,7 @@
       "originalTid": 29,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 29
     },
     {
@@ -22122,7 +22122,7 @@
       "originalTid": 30,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 30
     },
     {
@@ -22130,7 +22130,7 @@
       "originalTid": 31,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 31
     },
     {
@@ -22138,7 +22138,7 @@
       "originalTid": 32,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 32
     },
     {
@@ -22146,7 +22146,7 @@
       "originalTid": 33,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 33
     },
     {
@@ -22154,7 +22154,7 @@
       "originalTid": 34,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 34
     },
     {
@@ -22162,7 +22162,7 @@
       "originalTid": 35,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 35
     },
     {
@@ -22170,7 +22170,7 @@
       "originalTid": 36,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 36
     },
     {
@@ -22178,7 +22178,7 @@
       "originalTid": 37,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 37
     },
     {
@@ -22186,7 +22186,7 @@
       "originalTid": 38,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 38
     },
     {
@@ -22194,7 +22194,7 @@
       "originalTid": 39,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 39
     },
     {
@@ -22202,7 +22202,7 @@
       "originalTid": 40,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 40
     },
     {
@@ -22210,7 +22210,7 @@
       "originalTid": 41,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 41
     },
     {
@@ -22218,7 +22218,7 @@
       "originalTid": 42,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 42
     },
     {
@@ -22226,7 +22226,7 @@
       "originalTid": 43,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 43
     },
     {
@@ -22234,7 +22234,7 @@
       "originalTid": 44,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 44
     },
     {
@@ -22242,7 +22242,7 @@
       "originalTid": 45,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 45
     },
     {
@@ -22250,7 +22250,7 @@
       "originalTid": 46,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 46
     },
     {
@@ -22258,7 +22258,7 @@
       "originalTid": 47,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 47
     },
     {
@@ -22266,7 +22266,7 @@
       "originalTid": 48,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 48
     },
     {
@@ -22274,7 +22274,7 @@
       "originalTid": 49,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 49
     },
     {
@@ -22282,7 +22282,7 @@
       "originalTid": 50,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 50
     },
     {
@@ -22290,7 +22290,7 @@
       "originalTid": 51,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 51
     },
     {
@@ -22298,7 +22298,7 @@
       "originalTid": 52,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 52
     },
     {
@@ -22306,7 +22306,7 @@
       "originalTid": 53,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 53
     },
     {
@@ -22314,7 +22314,7 @@
       "originalTid": 54,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 54
     },
     {
@@ -22322,7 +22322,7 @@
       "originalTid": 55,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 55
     },
     {
@@ -22330,7 +22330,7 @@
       "originalTid": 56,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 56
     },
     {
@@ -22338,7 +22338,7 @@
       "originalTid": 57,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 57
     },
     {
@@ -22346,7 +22346,7 @@
       "originalTid": 58,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 58
     },
     {
@@ -22354,7 +22354,7 @@
       "originalTid": 59,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 59
     },
     {
@@ -22362,7 +22362,7 @@
       "originalTid": 60,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 60
     },
     {
@@ -22370,7 +22370,7 @@
       "originalTid": 61,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 61
     },
     {
@@ -22378,7 +22378,7 @@
       "originalTid": 62,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 62
     },
     {
@@ -22386,7 +22386,7 @@
       "originalTid": 63,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 63
     },
     {
@@ -22394,7 +22394,7 @@
       "originalTid": 64,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 64
     },
     {
@@ -22402,7 +22402,7 @@
       "originalTid": 65,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 65
     },
     {
@@ -22410,7 +22410,7 @@
       "originalTid": 66,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 66
     },
     {
@@ -22418,7 +22418,7 @@
       "originalTid": 67,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 67
     },
     {
@@ -22426,7 +22426,7 @@
       "originalTid": 68,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 68
     },
     {
@@ -22434,7 +22434,7 @@
       "originalTid": 69,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 69
     },
     {
@@ -22442,7 +22442,7 @@
       "originalTid": 70,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 70
     },
     {
@@ -22450,7 +22450,7 @@
       "originalTid": 71,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 71
     },
     {
@@ -22458,7 +22458,7 @@
       "originalTid": 72,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 72
     },
     {
@@ -22466,7 +22466,7 @@
       "originalTid": 73,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 73
     },
     {
@@ -22474,7 +22474,7 @@
       "originalTid": 74,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 74
     },
     {
@@ -22482,7 +22482,7 @@
       "originalTid": 75,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 75
     },
     {
@@ -22490,7 +22490,7 @@
       "originalTid": 76,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 76
     },
     {
@@ -22498,7 +22498,7 @@
       "originalTid": 77,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 77
     },
     {
@@ -22506,7 +22506,7 @@
       "originalTid": 78,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 78
     },
     {
@@ -22514,7 +22514,7 @@
       "originalTid": 79,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 79
     },
     {
@@ -22522,7 +22522,7 @@
       "originalTid": 80,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 80
     },
     {
@@ -22530,7 +22530,7 @@
       "originalTid": 81,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 81
     },
     {
@@ -22538,7 +22538,7 @@
       "originalTid": 82,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 82
     },
     {
@@ -22546,7 +22546,7 @@
       "originalTid": 83,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 83
     },
     {
@@ -22554,7 +22554,7 @@
       "originalTid": 84,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 84
     },
     {
@@ -22562,7 +22562,7 @@
       "originalTid": 85,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 85
     },
     {
@@ -22570,7 +22570,7 @@
       "originalTid": 86,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 86
     },
     {
@@ -22578,7 +22578,7 @@
       "originalTid": 87,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 87
     },
     {
@@ -22586,7 +22586,7 @@
       "originalTid": 88,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 88
     },
     {
@@ -22594,7 +22594,7 @@
       "originalTid": 89,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 89
     },
     {
@@ -22602,7 +22602,7 @@
       "originalTid": 90,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 90
     },
     {
@@ -22610,7 +22610,7 @@
       "originalTid": 91,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 91
     },
     {
@@ -22618,7 +22618,7 @@
       "originalTid": 92,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 92
     },
     {
@@ -22626,7 +22626,7 @@
       "originalTid": 93,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 93
     },
     {
@@ -22634,7 +22634,7 @@
       "originalTid": 94,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 94
     },
     {
@@ -22642,7 +22642,7 @@
       "originalTid": 95,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 95
     },
     {
@@ -22650,7 +22650,7 @@
       "originalTid": 96,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 96
     },
     {
@@ -22658,7 +22658,7 @@
       "originalTid": 97,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 97
     },
     {
@@ -22666,7 +22666,7 @@
       "originalTid": 98,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 98
     },
     {
@@ -22674,7 +22674,7 @@
       "originalTid": 99,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 99
     },
     {
@@ -22682,7 +22682,7 @@
       "originalTid": 100,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 100
     },
     {
@@ -22690,7 +22690,7 @@
       "originalTid": 101,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 101
     },
     {
@@ -22698,7 +22698,7 @@
       "originalTid": 102,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 102
     },
     {
@@ -22706,7 +22706,7 @@
       "originalTid": 103,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 103
     },
     {
@@ -22714,7 +22714,7 @@
       "originalTid": 104,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 104
     },
     {
@@ -22722,7 +22722,7 @@
       "originalTid": 105,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 105
     },
     {
@@ -22730,7 +22730,7 @@
       "originalTid": 106,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 106
     },
     {
@@ -22738,7 +22738,7 @@
       "originalTid": 107,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 107
     },
     {
@@ -22746,7 +22746,7 @@
       "originalTid": 108,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 108
     },
     {
@@ -22754,7 +22754,7 @@
       "originalTid": 109,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 109
     },
     {
@@ -22762,7 +22762,7 @@
       "originalTid": 110,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 110
     },
     {
@@ -22770,7 +22770,7 @@
       "originalTid": 111,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 111
     },
     {
@@ -22778,7 +22778,7 @@
       "originalTid": 112,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 112
     },
     {
@@ -22786,7 +22786,7 @@
       "originalTid": 113,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 113
     },
     {
@@ -22794,7 +22794,7 @@
       "originalTid": 114,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 114
     },
     {
@@ -22802,7 +22802,7 @@
       "originalTid": 115,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 115
     },
     {
@@ -22810,7 +22810,7 @@
       "originalTid": 116,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 116
     },
     {
@@ -22818,7 +22818,7 @@
       "originalTid": 117,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 117
     },
     {
@@ -22826,7 +22826,7 @@
       "originalTid": 118,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 118
     },
     {
@@ -22834,7 +22834,7 @@
       "originalTid": 119,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 119
     },
     {
@@ -22842,7 +22842,7 @@
       "originalTid": 120,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 120
     },
     {
@@ -22850,7 +22850,7 @@
       "originalTid": 121,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 121
     },
     {
@@ -22858,7 +22858,7 @@
       "originalTid": 122,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 122
     },
     {
@@ -22866,7 +22866,7 @@
       "originalTid": 123,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 123
     },
     {
@@ -22874,7 +22874,7 @@
       "originalTid": 124,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 124
     },
     {
@@ -22882,7 +22882,7 @@
       "originalTid": 125,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 125
     },
     {
@@ -22890,7 +22890,7 @@
       "originalTid": 126,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 126
     },
     {
@@ -22898,7 +22898,7 @@
       "originalTid": 127,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 127
     },
     {
@@ -22906,7 +22906,7 @@
       "originalTid": 128,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 128
     },
     {
@@ -22914,7 +22914,7 @@
       "originalTid": 129,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 129
     },
     {
@@ -22922,7 +22922,7 @@
       "originalTid": 130,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 130
     },
     {
@@ -22930,7 +22930,7 @@
       "originalTid": 131,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 131
     },
     {
@@ -22938,7 +22938,7 @@
       "originalTid": 132,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 132
     },
     {
@@ -22946,7 +22946,7 @@
       "originalTid": 133,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 133
     },
     {
@@ -22954,7 +22954,7 @@
       "originalTid": 134,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 134
     },
     {
@@ -22962,7 +22962,7 @@
       "originalTid": 135,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 135
     },
     {
@@ -22970,7 +22970,7 @@
       "originalTid": 136,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 136
     },
     {
@@ -22978,7 +22978,7 @@
       "originalTid": 137,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 137
     },
     {
@@ -22986,7 +22986,7 @@
       "originalTid": 138,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 138
     },
     {
@@ -22994,7 +22994,7 @@
       "originalTid": 139,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 139
     },
     {
@@ -23002,7 +23002,7 @@
       "originalTid": 140,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 140
     },
     {
@@ -23010,7 +23010,7 @@
       "originalTid": 141,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 141
     },
     {
@@ -23018,7 +23018,7 @@
       "originalTid": 142,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 142
     },
     {
@@ -23026,7 +23026,7 @@
       "originalTid": 143,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 143
     },
     {
@@ -23034,7 +23034,7 @@
       "originalTid": 144,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 144
     },
     {
@@ -23042,7 +23042,7 @@
       "originalTid": 145,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 145
     },
     {
@@ -23050,7 +23050,7 @@
       "originalTid": 146,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 146
     },
     {
@@ -23058,7 +23058,7 @@
       "originalTid": 147,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 147
     },
     {
@@ -23066,7 +23066,7 @@
       "originalTid": 148,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 148
     },
     {
@@ -23074,7 +23074,7 @@
       "originalTid": 149,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 149
     },
     {
@@ -23082,7 +23082,7 @@
       "originalTid": 150,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 150
     },
     {
@@ -23090,7 +23090,7 @@
       "originalTid": 151,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 151
     },
     {
@@ -23098,7 +23098,7 @@
       "originalTid": 152,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 152
     },
     {
@@ -23106,7 +23106,7 @@
       "originalTid": 153,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 153
     },
     {
@@ -23114,7 +23114,7 @@
       "originalTid": 154,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 154
     },
     {
@@ -23122,7 +23122,7 @@
       "originalTid": 155,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 155
     },
     {
@@ -23130,7 +23130,7 @@
       "originalTid": 156,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 156
     },
     {
@@ -23138,7 +23138,7 @@
       "originalTid": 0,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 157
     },
     {
@@ -23146,7 +23146,7 @@
       "originalTid": 1,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 158
     },
     {
@@ -23154,7 +23154,7 @@
       "originalTid": 2,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 159
     },
     {
@@ -23162,7 +23162,7 @@
       "originalTid": 3,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 160
     },
     {
@@ -23170,7 +23170,7 @@
       "originalTid": 4,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 161
     },
     {
@@ -23178,7 +23178,7 @@
       "originalTid": 5,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 162
     },
     {
@@ -23186,7 +23186,7 @@
       "originalTid": 6,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 163
     },
     {
@@ -23194,7 +23194,7 @@
       "originalTid": 7,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 164
     },
     {
@@ -23202,7 +23202,7 @@
       "originalTid": 8,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 165
     },
     {
@@ -23210,7 +23210,7 @@
       "originalTid": 9,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 166
     },
     {
@@ -23218,7 +23218,7 @@
       "originalTid": 10,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 167
     },
     {
@@ -23226,7 +23226,7 @@
       "originalTid": 11,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 168
     },
     {
@@ -23234,7 +23234,7 @@
       "originalTid": 12,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 169
     },
     {
@@ -23242,7 +23242,7 @@
       "originalTid": 13,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 170
     },
     {
@@ -23250,7 +23250,7 @@
       "originalTid": 14,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 171
     },
     {
@@ -23258,7 +23258,7 @@
       "originalTid": 15,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 172
     },
     {
@@ -23266,7 +23266,7 @@
       "originalTid": 16,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 173
     },
     {
@@ -23274,7 +23274,7 @@
       "originalTid": 17,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 174
     },
     {
@@ -23282,7 +23282,7 @@
       "originalTid": 18,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 175
     },
     {
@@ -23290,7 +23290,7 @@
       "originalTid": 19,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 176
     },
     {
@@ -23298,7 +23298,7 @@
       "originalTid": 20,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 177
     },
     {
@@ -23306,7 +23306,7 @@
       "originalTid": 21,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 178
     },
     {
@@ -23314,7 +23314,7 @@
       "originalTid": 22,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 179
     },
     {
@@ -23322,7 +23322,7 @@
       "originalTid": 23,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 180
     },
     {
@@ -23330,7 +23330,7 @@
       "originalTid": 24,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 181
     },
     {
@@ -23338,7 +23338,7 @@
       "originalTid": 25,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 182
     },
     {
@@ -23346,7 +23346,7 @@
       "originalTid": 26,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 183
     },
     {
@@ -23354,7 +23354,7 @@
       "originalTid": 27,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 184
     },
     {
@@ -23362,7 +23362,7 @@
       "originalTid": 28,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 185
     },
     {
@@ -23370,7 +23370,7 @@
       "originalTid": 29,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 186
     },
     {
@@ -23378,7 +23378,7 @@
       "originalTid": 30,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 187
     },
     {
@@ -23386,7 +23386,7 @@
       "originalTid": 31,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 188
     },
     {
@@ -23394,7 +23394,7 @@
       "originalTid": 32,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 189
     },
     {
@@ -23402,7 +23402,7 @@
       "originalTid": 33,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 190
     },
     {
@@ -23410,7 +23410,7 @@
       "originalTid": 34,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 191
     },
     {
@@ -23418,7 +23418,7 @@
       "originalTid": 35,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 192
     },
     {
@@ -23426,7 +23426,7 @@
       "originalTid": 36,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 193
     },
     {
@@ -23434,7 +23434,7 @@
       "originalTid": 37,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 194
     },
     {
@@ -23442,7 +23442,7 @@
       "originalTid": 38,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 195
     },
     {
@@ -23450,7 +23450,7 @@
       "originalTid": 39,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 196
     },
     {
@@ -23458,7 +23458,7 @@
       "originalTid": 40,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 197
     },
     {
@@ -23466,7 +23466,7 @@
       "originalTid": 41,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 198
     },
     {
@@ -23474,7 +23474,7 @@
       "originalTid": 42,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 199
     },
     {
@@ -23482,7 +23482,7 @@
       "originalTid": 43,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 200
     },
     {
@@ -23490,7 +23490,7 @@
       "originalTid": 44,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 201
     },
     {
@@ -23498,7 +23498,7 @@
       "originalTid": 45,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 202
     },
     {
@@ -23506,7 +23506,7 @@
       "originalTid": 46,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 203
     },
     {
@@ -23514,7 +23514,7 @@
       "originalTid": 47,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 204
     },
     {
@@ -23522,7 +23522,7 @@
       "originalTid": 48,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 205
     },
     {
@@ -23530,7 +23530,7 @@
       "originalTid": 49,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 206
     },
     {
@@ -23538,7 +23538,7 @@
       "originalTid": 50,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 207
     },
     {
@@ -23546,7 +23546,7 @@
       "originalTid": 51,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 208
     },
     {
@@ -23554,7 +23554,7 @@
       "originalTid": 52,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 209
     },
     {
@@ -23562,7 +23562,7 @@
       "originalTid": 53,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 210
     },
     {
@@ -23570,7 +23570,7 @@
       "originalTid": 54,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 211
     },
     {
@@ -23578,7 +23578,7 @@
       "originalTid": 55,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 212
     },
     {
@@ -23586,7 +23586,7 @@
       "originalTid": 56,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 213
     },
     {
@@ -23594,7 +23594,7 @@
       "originalTid": 57,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 214
     },
     {
@@ -23602,7 +23602,7 @@
       "originalTid": 58,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 215
     },
     {
@@ -23610,7 +23610,7 @@
       "originalTid": 59,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 216
     },
     {
@@ -23618,7 +23618,7 @@
       "originalTid": 60,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 217
     },
     {
@@ -23626,7 +23626,7 @@
       "originalTid": 61,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 218
     },
     {
@@ -23634,7 +23634,7 @@
       "originalTid": 62,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 219
     },
     {
@@ -23642,7 +23642,7 @@
       "originalTid": 63,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 220
     },
     {
@@ -23650,7 +23650,7 @@
       "originalTid": 64,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 221
     },
     {
@@ -23658,7 +23658,7 @@
       "originalTid": 65,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 222
     },
     {
@@ -23666,7 +23666,7 @@
       "originalTid": 66,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 223
     },
     {
@@ -23674,7 +23674,7 @@
       "originalTid": 67,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 224
     },
     {
@@ -23682,7 +23682,7 @@
       "originalTid": 68,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 225
     },
     {
@@ -23690,7 +23690,7 @@
       "originalTid": 69,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 226
     },
     {
@@ -23698,7 +23698,7 @@
       "originalTid": 70,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 227
     },
     {
@@ -23706,7 +23706,7 @@
       "originalTid": 71,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 228
     },
     {
@@ -23714,7 +23714,7 @@
       "originalTid": 72,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 229
     },
     {
@@ -23722,7 +23722,7 @@
       "originalTid": 73,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 230
     },
     {
@@ -23730,7 +23730,7 @@
       "originalTid": 74,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 231
     },
     {
@@ -23738,7 +23738,7 @@
       "originalTid": 75,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 232
     },
     {
@@ -23746,7 +23746,7 @@
       "originalTid": 76,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 233
     },
     {
@@ -23754,7 +23754,7 @@
       "originalTid": 77,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 234
     },
     {
@@ -23762,7 +23762,7 @@
       "originalTid": 78,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 235
     },
     {
@@ -23770,7 +23770,7 @@
       "originalTid": 79,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 236
     },
     {
@@ -23778,7 +23778,7 @@
       "originalTid": 80,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 237
     },
     {
@@ -23786,7 +23786,7 @@
       "originalTid": 81,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 238
     },
     {
@@ -23794,7 +23794,7 @@
       "originalTid": 82,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 239
     },
     {
@@ -23802,7 +23802,7 @@
       "originalTid": 83,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 240
     },
     {
@@ -23810,7 +23810,7 @@
       "originalTid": 84,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 241
     },
     {
@@ -23818,7 +23818,7 @@
       "originalTid": 85,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 242
     },
     {
@@ -23826,7 +23826,7 @@
       "originalTid": 86,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 243
     },
     {
@@ -23834,7 +23834,7 @@
       "originalTid": 87,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 244
     },
     {
@@ -23842,7 +23842,7 @@
       "originalTid": 88,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 245
     },
     {
@@ -23850,7 +23850,7 @@
       "originalTid": 89,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 246
     },
     {
@@ -23858,7 +23858,7 @@
       "originalTid": 90,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 247
     },
     {
@@ -23866,7 +23866,7 @@
       "originalTid": 91,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 248
     },
     {
@@ -23874,7 +23874,7 @@
       "originalTid": 92,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 249
     },
     {
@@ -23882,7 +23882,7 @@
       "originalTid": 93,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 250
     },
     {
@@ -23890,7 +23890,7 @@
       "originalTid": 94,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 251
     },
     {
@@ -23898,7 +23898,7 @@
       "originalTid": 95,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 252
     },
     {
@@ -23906,7 +23906,7 @@
       "originalTid": 96,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 253
     },
     {
@@ -23914,7 +23914,7 @@
       "originalTid": 97,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 254
     },
     {
@@ -23922,7 +23922,7 @@
       "originalTid": 98,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 255
     },
     {
@@ -23930,7 +23930,7 @@
       "originalTid": 99,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 256
     },
     {
@@ -23938,7 +23938,7 @@
       "originalTid": 100,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 257
     },
     {
@@ -23946,7 +23946,7 @@
       "originalTid": 101,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 258
     },
     {
@@ -23954,7 +23954,7 @@
       "originalTid": 102,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 259
     },
     {
@@ -23962,7 +23962,7 @@
       "originalTid": 103,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 260
     },
     {
@@ -23970,7 +23970,7 @@
       "originalTid": 104,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 261
     },
     {
@@ -23978,7 +23978,7 @@
       "originalTid": 105,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 262
     },
     {
@@ -23986,7 +23986,7 @@
       "originalTid": 106,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 263
     },
     {
@@ -23994,7 +23994,7 @@
       "originalTid": 107,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 264
     },
     {
@@ -24002,7 +24002,7 @@
       "originalTid": 108,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 265
     },
     {
@@ -24010,7 +24010,7 @@
       "originalTid": 109,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 266
     },
     {
@@ -24018,7 +24018,7 @@
       "originalTid": 110,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 267
     },
     {
@@ -24026,7 +24026,7 @@
       "originalTid": 111,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 268
     },
     {
@@ -24034,7 +24034,7 @@
       "originalTid": 112,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 269
     },
     {
@@ -24042,7 +24042,7 @@
       "originalTid": 113,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 270
     },
     {
@@ -24050,7 +24050,7 @@
       "originalTid": 114,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 271
     },
     {
@@ -24058,7 +24058,7 @@
       "originalTid": 115,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 272
     },
     {
@@ -24066,7 +24066,7 @@
       "originalTid": 116,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 273
     },
     {
@@ -24074,7 +24074,7 @@
       "originalTid": 117,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 274
     },
     {
@@ -24082,7 +24082,7 @@
       "originalTid": 118,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 275
     },
     {
@@ -24090,7 +24090,7 @@
       "originalTid": 119,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 276
     },
     {
@@ -24098,7 +24098,7 @@
       "originalTid": 120,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 277
     },
     {
@@ -24106,7 +24106,7 @@
       "originalTid": 121,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 278
     },
     {
@@ -24114,7 +24114,7 @@
       "originalTid": 122,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 279
     },
     {
@@ -24122,7 +24122,7 @@
       "originalTid": 123,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 280
     },
     {
@@ -24130,7 +24130,7 @@
       "originalTid": 124,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 281
     },
     {
@@ -24138,7 +24138,7 @@
       "originalTid": 125,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 282
     },
     {
@@ -24146,7 +24146,7 @@
       "originalTid": 126,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 283
     },
     {
@@ -24154,7 +24154,7 @@
       "originalTid": 127,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 284
     },
     {
@@ -24162,7 +24162,7 @@
       "originalTid": 128,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 285
     },
     {
@@ -24170,7 +24170,7 @@
       "originalTid": 129,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 286
     },
     {
@@ -24178,7 +24178,7 @@
       "originalTid": 130,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 287
     },
     {
@@ -24186,7 +24186,7 @@
       "originalTid": 131,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 288
     },
     {
@@ -24194,7 +24194,7 @@
       "originalTid": 132,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 289
     },
     {
@@ -24202,7 +24202,7 @@
       "originalTid": 133,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 290
     },
     {
@@ -24210,7 +24210,7 @@
       "originalTid": 134,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 291
     },
     {
@@ -24218,7 +24218,7 @@
       "originalTid": 135,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 292
     },
     {
@@ -24226,7 +24226,7 @@
       "originalTid": 136,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 293
     },
     {
@@ -24234,7 +24234,7 @@
       "originalTid": 137,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 294
     },
     {
@@ -24242,7 +24242,7 @@
       "originalTid": 138,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 295
     },
     {
@@ -24250,7 +24250,7 @@
       "originalTid": 139,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 296
     },
     {
@@ -24258,7 +24258,7 @@
       "originalTid": 140,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 297
     },
     {
@@ -24266,7 +24266,7 @@
       "originalTid": 141,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 298
     },
     {
@@ -24274,7 +24274,7 @@
       "originalTid": 142,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 299
     },
     {
@@ -24282,7 +24282,7 @@
       "originalTid": 143,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 300
     },
     {
@@ -24290,7 +24290,7 @@
       "originalTid": 144,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 301
     },
     {
@@ -24298,7 +24298,7 @@
       "originalTid": 145,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 302
     },
     {
@@ -24306,7 +24306,7 @@
       "originalTid": 146,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 303
     },
     {
@@ -24314,7 +24314,7 @@
       "originalTid": 147,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 304
     },
     {
@@ -24322,7 +24322,7 @@
       "originalTid": 148,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 305
     },
     {
@@ -24330,7 +24330,7 @@
       "originalTid": 149,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 306
     },
     {
@@ -24338,7 +24338,7 @@
       "originalTid": 150,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 307
     },
     {
@@ -24346,7 +24346,7 @@
       "originalTid": 151,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 308
     },
     {
@@ -24354,7 +24354,7 @@
       "originalTid": 152,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 309
     },
     {
@@ -24362,7 +24362,7 @@
       "originalTid": 153,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 310
     },
     {
@@ -24370,7 +24370,7 @@
       "originalTid": 154,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 311
     },
     {
@@ -24378,7 +24378,7 @@
       "originalTid": 155,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 312
     },
     {
@@ -24386,7 +24386,7 @@
       "originalTid": 156,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 313
     },
     {
@@ -31930,7 +31930,7 @@
       "originalTid": 157,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1256
     },
     {
@@ -31938,7 +31938,7 @@
       "originalTid": 157,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1257
     },
     {
@@ -31994,7 +31994,7 @@
       "originalTid": 158,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1264
     },
     {
@@ -32002,7 +32002,7 @@
       "originalTid": 158,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1265
     },
     {
@@ -32058,7 +32058,7 @@
       "originalTid": 159,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1272
     },
     {
@@ -32066,7 +32066,7 @@
       "originalTid": 159,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1273
     },
     {
@@ -32122,7 +32122,7 @@
       "originalTid": 160,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1280
     },
     {
@@ -32130,7 +32130,7 @@
       "originalTid": 160,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1281
     },
     {
@@ -32186,7 +32186,7 @@
       "originalTid": 161,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1288
     },
     {
@@ -32194,7 +32194,7 @@
       "originalTid": 161,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1289
     },
     {
@@ -32250,7 +32250,7 @@
       "originalTid": 162,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1296
     },
     {
@@ -32258,7 +32258,7 @@
       "originalTid": 162,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1297
     },
     {
@@ -32314,7 +32314,7 @@
       "originalTid": 163,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1304
     },
     {
@@ -32322,7 +32322,7 @@
       "originalTid": 163,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1305
     },
     {
@@ -32378,7 +32378,7 @@
       "originalTid": 164,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1312
     },
     {
@@ -32386,7 +32386,7 @@
       "originalTid": 164,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1313
     },
     {
@@ -32442,7 +32442,7 @@
       "originalTid": 165,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1320
     },
     {
@@ -32450,7 +32450,7 @@
       "originalTid": 165,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1321
     },
     {
@@ -32506,7 +32506,7 @@
       "originalTid": 166,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1328
     },
     {
@@ -32514,7 +32514,7 @@
       "originalTid": 166,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1329
     },
     {
@@ -32570,7 +32570,7 @@
       "originalTid": 167,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1336
     },
     {
@@ -32578,7 +32578,7 @@
       "originalTid": 167,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1337
     },
     {
@@ -32634,7 +32634,7 @@
       "originalTid": 168,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1344
     },
     {
@@ -32642,7 +32642,7 @@
       "originalTid": 168,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1345
     },
     {
@@ -32698,7 +32698,7 @@
       "originalTid": 169,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1352
     },
     {
@@ -32706,7 +32706,7 @@
       "originalTid": 169,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1353
     },
     {
@@ -32762,7 +32762,7 @@
       "originalTid": 170,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1360
     },
     {
@@ -32770,7 +32770,7 @@
       "originalTid": 170,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1361
     },
     {
@@ -32826,7 +32826,7 @@
       "originalTid": 171,
       "round": 1,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1368
     },
     {
@@ -32834,7 +32834,7 @@
       "originalTid": 171,
       "round": 2,
       "pick": 0,
-      "season": 2024,
+      "season": 2018,
       "dpid": 1369
     },
     {
@@ -32894,7 +32894,7 @@
         19
       ],
       "score": 20,
-      "season": 2024,
+      "season": 2018,
       "eid": 0
     },
     {
@@ -32903,7 +32903,7 @@
       "tids": [
         157
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 1
     },
     {
@@ -32912,7 +32912,7 @@
       "tids": [
         158
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 2
     },
     {
@@ -32921,7 +32921,7 @@
       "tids": [
         159
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 3
     },
     {
@@ -32930,7 +32930,7 @@
       "tids": [
         160
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 4
     },
     {
@@ -32939,7 +32939,7 @@
       "tids": [
         161
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 5
     },
     {
@@ -32948,7 +32948,7 @@
       "tids": [
         162
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 6
     },
     {
@@ -32957,7 +32957,7 @@
       "tids": [
         163
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 7
     },
     {
@@ -32966,7 +32966,7 @@
       "tids": [
         164
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 8
     },
     {
@@ -32975,7 +32975,7 @@
       "tids": [
         165
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 9
     },
     {
@@ -32984,7 +32984,7 @@
       "tids": [
         166
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 10
     },
     {
@@ -32993,7 +32993,7 @@
       "tids": [
         167
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 11
     },
     {
@@ -33002,7 +33002,7 @@
       "tids": [
         168
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 12
     },
     {
@@ -33011,7 +33011,7 @@
       "tids": [
         169
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 13
     },
     {
@@ -33020,7 +33020,7 @@
       "tids": [
         170
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 14
     },
     {
@@ -33029,9 +33029,9 @@
       "tids": [
         171
       ],
-      "season": 2024,
+      "season": 2018,
       "eid": 15
     }
   ],
-  "startingSeason": 2024
+  "startingSeason": 2018
 }
